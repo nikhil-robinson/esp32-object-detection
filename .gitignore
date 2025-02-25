@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+build
+managed_components
+sdkconfig
+sdkconfig.old
+.vscode
+dependencies.lock

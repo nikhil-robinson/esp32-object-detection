@@ -1,0 +1,6 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/esp32_s3_eye: "=3.1.0~1"
+  espressif/imagenet_cls:
+    version: "^0.2.0"
+    override_path: "../components/esp-dl/models/imagenet_cls"
